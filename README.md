@@ -10,10 +10,9 @@ First steps... soon, experience the power of the force you will. Fear shall you 
 - All right, I'll give it a try. 
 - No. Try not. Do... or do not. There is no try. 
 
-
-- I don't, I don't believe it. 
-- That is why you fail. 
-
 “Patience you must have, my young padawan.”
 
 “If no mistake have you made, yet losing you are, a different game you should play.”
+
+- I don't, I don't believe it. 
+- That is why you fail. 
