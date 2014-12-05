@@ -1,7 +1,7 @@
 hello-world
 ===========
 
-First steps... soon, experience the power of the force you will. Fear not shall you!
+First steps... soon, experience the power of the force you will. Fear shall you not!
 
 “Always pass on what you have learned.”
 
